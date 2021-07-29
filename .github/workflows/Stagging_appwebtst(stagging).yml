@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'appwebtst'
           slot-name: 'stagging'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_55b83581177243fda5f4a62e50338123 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_fdc50950bfbb4333ac8ad550d0fb991e }}
